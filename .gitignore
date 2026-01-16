@@ -2,3 +2,4 @@ newenv/
 __pycache__/
 config.py
 .env
+chromedriver.exe
